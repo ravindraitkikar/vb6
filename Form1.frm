@@ -15,7 +15,7 @@ Begin VB.Form Form1
       Top             =   540
    End
    Begin VB.CommandButton cmdHello 
-      Caption         =   "Hello Word!"
+Caption               =   "Hello New Word!"
       Height          =   735
       Left            =   480
       TabIndex        =   0
